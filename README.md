@@ -211,4 +211,4 @@ The dashboard highlights several findings about store performance:
 - **Monthly Trends:** Monthly orders remain relatively stable throughout the year, ranging from approximately 1,620 to 1,645 orders.
 
 ---
-**Focus Areas:** Data Cleaning, Data Modeling, DAX, Data Analysis, and Dashboard Development
+
