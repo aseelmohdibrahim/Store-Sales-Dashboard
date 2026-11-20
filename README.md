@@ -88,7 +88,8 @@ Three queries were created in Power Query and loaded into the Data Model:
 
 The complete Power Query M code is available in:
 
-`power_query/power_query_steps.txt`
+[PowerQuery Applied Steps.docx](https://github.com/user-attachments/files/35157799/PowerQuery.Applied.Steps.docx)
+
 
 ---
 
