@@ -14,7 +14,8 @@ The project covers data cleaning using **Power Query**, data modeling using **Po
 6. [Stage 3: PivotTables](#stage-3-pivottables)
 7. [Stage 4: Final Dashboard](#stage-4-final-dashboard)
 8. [Key Insights](#key-insights)
-
+9. [Repository Structure](#repository-structure)
+10. [How to Use](#how-to-use)
 
 ---
 
@@ -209,6 +210,39 @@ The dashboard highlights several findings about store performance:
 - **Product Performance:** Doll, Shirt, and Pants are the top-selling products, while Sofa and Headphones generate the lowest sales.
 - **Weekly Trends:** Orders peak on Thursday (2,901) and Sunday (2,882), while Wednesday records the lowest number of orders (2,696).
 - **Monthly Trends:** Monthly orders remain relatively stable throughout the year, ranging from approximately 1,620 to 1,645 orders.
+
+  ## 9. Repository Structure
+
+```text
+Sales-Insights-Excel-Dashboard/
+│
+├── README.md
+│
+├── data/
+│   └── (raw data files)
+│
+├── power_query/
+│   └── power_query_steps.txt
+│
+├── images/
+│   ├── dashboard.png
+│   ├── power_query.png
+│   ├── pivot_table.png
+│   └── star_schema.png
+│
+└── Sales_Dashboard.xlsx
+```
+
+---
+
+## 10. How to Use
+
+1. Clone or download this repository.
+2. Open `Sales_Dashboard.xlsx` using Microsoft Excel.
+3. Explore the dashboard using the Region and Category slicers and the Order Date timeline.
+4. Review the Power Query transformations in `power_query/power_query_steps.txt`.
+5. Explore the Data Model, relationships, and DAX measures through Power Pivot.
+
 
 ---
 
